@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931459021523",
+    "firebase_url": "https://notifly-ade3f.firebaseio.com",
+    "project_id": "notifly-ade3f",
+    "storage_bucket": "notifly-ade3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931459021523:android:d7fa8e91cbeb125b02b226",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931459021523-e3ku4m4uklo3sqln1k0mq8r6m3thon9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-x7Q15iAkgbEPSvHA5z5s1QrRfUO0RSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931459021523-e3ku4m4uklo3sqln1k0mq8r6m3thon9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
